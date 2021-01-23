@@ -1,0 +1,7 @@
+﻿  Injector.cpp
+c:\users\nivm\source\repos\dllinjection\injector\injector.cpp(28): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'TCHAR *'
+  c:\users\nivm\source\repos\dllinjection\injector\injector.cpp(28): note: consider using '%ls' in the format string
+  c:\users\nivm\source\repos\dllinjection\injector\injector.cpp(28): note: consider using '%lls' in the format string
+  c:\users\nivm\source\repos\dllinjection\injector\injector.cpp(28): note: consider using '%Ls' in the format string
+  c:\users\nivm\source\repos\dllinjection\injector\injector.cpp(28): note: consider using '%ws' in the format string
+  Injector.vcxproj -> C:\Users\NivM\source\repos\DLLInjection\Debug\Injector.exe

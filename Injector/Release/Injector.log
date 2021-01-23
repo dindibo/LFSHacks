@@ -1,0 +1,5 @@
+﻿  Injector.cpp
+c:\users\nivm\source\repos\dllinjection\injector\injector.cpp(8): warning C4101: 'Old': unreferenced local variable
+Injector.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:ICF' specification
+  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+  Injector.vcxproj -> C:\Users\NivM\source\repos\DLLInjection\Release\Injector.exe
